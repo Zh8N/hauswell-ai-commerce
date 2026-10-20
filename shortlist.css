@@ -1,0 +1,1 @@
+.shortlist-cards{grid-template-columns:repeat(2,1fr)}.gemini-project .detail-frame img{aspect-ratio:4/5;object-fit:cover;object-position:center bottom}@media(max-width:760px){.shortlist-cards{grid-template-columns:1fr}}
